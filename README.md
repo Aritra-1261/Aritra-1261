@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Django, Django-Rest-Framework, FASTAPI, Flask, ReactJS, Node.js**
 
+- 🤝 I’m looking for help with [Auto-Brightness(PC & Laptop)](https://github.com/Aritra-1261/auto-brightness)
+
 - 👨‍💻 All of my projects are available at [https://aritra-dutta-roy.netlify.app](https://aritra-dutta-roy.netlify.app)
 
 - 📫 How to reach me **aritraduttaqwerty@gmail.com**
